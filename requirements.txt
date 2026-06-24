@@ -1,0 +1,2 @@
+scapy>=2.5.0
+streamlit>=1.28.0
